@@ -41,7 +41,7 @@ const Navbar = () => {
     <p className="text-sm font-bold text-white pl-1">Sanathana Dharma Vaaradhi</p>
     <p className="text-sm font-bold text-white pl-1">Koti Ganapathi Moola Mantra Japam</p>
     </div>
-    <img src={kcdt3} style={{height:'82px',width:'82px'}} />
+    <img src={ganesh1} style={{height:'64px',width:'64px'}} />
   </div>
   
   {user &&
